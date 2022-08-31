@@ -1,1 +1,3 @@
-my other GitHub account: https://github.com/peepsenpai
+😎 ```I'm a full stack developer, expertise on react , node and mySQL.```
+
+----------
